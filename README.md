@@ -12,7 +12,7 @@ It uses latent space interpolation for a GAN trained on video frames
 
 ### Data
 
-Trained on frames dataset available [here](https://drive.google.com/u/0/uc?id=18FbMur-goI6ZnWh-fP0SNuq8DVCnMyKn)
+Trained on a dataset of video frames available [here](https://drive.google.com/u/0/uc?id=18FbMur-goI6ZnWh-fP0SNuq8DVCnMyKn)
 
 To extract frames from your own videos:
 
